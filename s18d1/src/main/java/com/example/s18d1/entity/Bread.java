@@ -4,4 +4,5 @@ public enum Bread {
     SOMUN,
     CAVDAR,
     KEPEKLI;
+
 }
